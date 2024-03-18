@@ -9,7 +9,7 @@ Markdown allows you to write using an **easy-to-read, easy-to-write plain text f
 *Why not give a try?*
 
 Markdown supports:
-- **Bold** and _italic_text
+- **Bold** and _italic_ text
 - [Links](https://example.com)
 
 Find out more about Markwdonw at the [official
